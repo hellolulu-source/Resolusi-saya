@@ -1,6 +1,6 @@
 MY GOALS 
 I WANT TO BE
-- Progrrammer Full Stack dengan memanfaatkan AI (Colab With AI).
+- Programmer Full Stack dengan memanfaatkan AI (Colab With AI).
 - Kerja Remote dengan klien" luar negri
 - Prompt Engineer (Membuat kreasi-kreasi dengan prompt yang saya buat khususnya untuk ngoding, ngonten, dll)
 - Indonesian Trainer AI/ Pelatih model AI untuk berbahasa Indonesia 
